@@ -1,0 +1,6 @@
+D:\HOCTAP\Final2\data\Dataset\FaceData\processed\20198133\0.png 228 189 384 371
+D:\HOCTAP\Final2\data\Dataset\FaceData\processed\20198133\1.png 211 164 394 379
+D:\HOCTAP\Final2\data\Dataset\FaceData\processed\20198133\4.png 245 191 395 368
+D:\HOCTAP\Final2\data\Dataset\FaceData\processed\20198133\5.png 222 175 394 377
+D:\HOCTAP\Final2\data\Dataset\FaceData\processed\20198133\2.png 204 165 387 376
+D:\HOCTAP\Final2\data\Dataset\FaceData\processed\20198133\3.png 215 181 377 371
